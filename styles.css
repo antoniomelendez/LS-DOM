@@ -1,0 +1,49 @@
+body {
+  background-color: blue;
+}
+.heading {
+  height: 600px;
+  background-color: #428fbb;
+  opacity: 0.8;
+  background-image: url("images/background.jpg");
+
+}
+.headertext {
+  font-family: 'Montserrat','Helvetica','Arial',sans-serif;
+  color: white;
+  text-align: center;
+}
+.navbar {
+  height: 50px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.back-image img {
+  float:left;
+  margin-right: 15px;
+  width: 100px;
+
+}
+.list ul li {
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: white;
+  font-family: 'Montserrat','Helvetica','Arial',sans-serif;
+  position: relative;
+  top: 10px;
+  list-style: none;
+  float: left;
+  margin-right: 25px;
+}
+li:hover {
+  opacity: 0.5;
+}
+.section2 h3 {
+  text-align: center;
+}
+.section2 {
+  align-items: center;
+}
+.selection-training {
+  column-count: 2;
+  column-gap: 10px;
+}
