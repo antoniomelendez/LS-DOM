@@ -1,5 +1,9 @@
+* {
+  border: 1px solid black;
+}
+
 body {
-  background-color: blue;
+  background-color: #f8f8f8;
 }
 .heading {
   height: 600px;
